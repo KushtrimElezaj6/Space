@@ -1,0 +1,10 @@
+.link {
+  padding: 8px;
+  text-decoration: none;
+  width: 100%;
+}
+
+.link:hover {
+  background-color: lightgray;
+  transition: 0.2s;
+}
